@@ -1,4 +1,4 @@
-# 公众号“手撕编解码”文章链接
+# 微信公众号“手撕编解码”文章链接
 ## H.265相关
 
 ### 1.屏幕内容编码
@@ -27,10 +27,38 @@
 
 [由这两道算法题，我想到H265编码](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485078&idx=1&sn=7c8050f6a53f951a0f80333c39a97fda&chksm=c06f1709f7189e1f2538c583ba26cf2258684bf7b24cee2cede7eef54c437a66b097c456ff2c&token=842872866&lang=zh_CN#rd)
 
-### 3.测试
+### 3. 率失真优化RDO
+[视频编码中的RDO是什么？](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484612&idx=1&sn=9ba2a7afa05c86b175e727e1a78ff9c0&chksm=c06f155bf7189c4d19797180eeccd5b87aa7d042b5f6df95fe73b251a617610ea6b6322050b1&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之模式选择快速RDO(开篇)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484658&idx=1&sn=69b0a6144d6645aac8814befc71cacfa&chksm=c06f156df7189c7b5185195412b930a87c92a1ae26fce672243e1d7dae51e7d62fb8662ebab7&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之模式选择快速RDO(x265篇)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484659&idx=1&sn=edc76e96f5b78fdf7aba857d44d7379e&chksm=c06f156cf7189c7ad441565866613ee3d245516a8ac6bd9e14dda2ca5e058b1d34e38eb8cdcc&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之模式选择快速RDO(失真篇)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484660&idx=1&sn=5923207908ec08da538735d61a4c8e4c&chksm=c06f156bf7189c7d0c383bab58602441b0d2959b3d7a37dc3a280aaed0aaa072fe446fd78bab&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之模式选择RDO（λ篇）](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484681&idx=1&sn=1846a27e3464587432ecc4fae4ff7437&chksm=c06f1496f7189d80512db6fe84546b41a2f991d686d8097d38a5a9785bc21326cb62b43e737d&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之RDO应用(RDOQ篇)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484682&idx=1&sn=126d22a36c80b647bc352f688e899d27&chksm=c06f1495f7189d83980e44d8e1dc12589f0287c3fa7d33fdd6c1904f44648d1982901174682e&token=842872866&lang=zh_CN#rd)
+
+### 4.HM码率控制（R-λ）
+[经典不过时之λ域码率控制](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484533&idx=1&sn=5d5ee0f6e5a9e75c6de1c2a6c28d4767&chksm=c06f15eaf7189cfc999dd3e0cfd3003b8ab3c71e47bb71c91dfa68189da44a68e061eee9ba91&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之λ域码率控制（二)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484604&idx=1&sn=e519ab7b557b9f9a37c8ae001f373293&chksm=c06f1523f7189c356763d892725f40e02570390a08734d0f3fb3f9f2b18e736a42193535d9f1&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之λ域码率控制（三）](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484606&idx=1&sn=d3fa976f426d6f9437fcce2fcfa05a23&chksm=c06f1521f7189c3710e8694609fe1a3ce8fdcae66fe53da0914b54e05d77af8ae3950258fdda&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之λ域码率控制（四）](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484607&idx=1&sn=1e9405cf18d7c481cf4721167ee4ef97&chksm=c06f1520f7189c361c256366399479453156a96d505b76249b041f81dd8ca9ac623a045d5c43&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之λ域码率控制（五-实验篇）](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484608&idx=1&sn=b8c6cf9c2478bdd6cb2383185f0b945a&chksm=c06f155ff7189c49b5837eb0bc7a67809f7f35aee59ff200fa0e8632799dd332f78e5b7fdeb7&token=842872866&lang=zh_CN#rd)
+
+[经典不过时之λ域码率控制(六-复盘篇)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484609&idx=1&sn=733f451a823fd0299ff96b41aa972ff3&chksm=c06f155ef7189c48c1a998dc3a5790dd7111c2e9ed3df2666fc5d12e752f516f537a22af4ce5&token=842872866&lang=zh_CN#rd)
+
+### 5.测试
 [解决FFmpeg播放RTSP推送的H265码流报错问题](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485004&idx=1&sn=a1f9f508d963149fd513eb3e853224bc&chksm=c06f17d3f7189ec51ac2b30e751037395a07b8acab62d4cb0a3d9239449cce7101125becd59c&token=842872866&lang=zh_CN#rd)
 
 [H265比H264压缩性提升50%？](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484912&idx=1&sn=c1894ca2ab0f016604e30995c5a57b07&chksm=c06f146ff7189d79e07a1dd19a9b2d904cc407d2d96cf6d3c5da320ae7305ceff116ded95dd8&token=842872866&lang=zh_CN#rd)
+
+[x265中1080P图像的跨度stride是2112像素？](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484683&idx=1&sn=b4dc3c1d5a05d67320d1506532ee1247&chksm=c06f1494f7189d82400852b4456604e243484b6144175700ae9dcbd1fc384712b300120e5499&token=842872866&lang=zh_CN#rd)
 
 ## H.264相关
 
@@ -47,3 +75,6 @@
 [基础不牢之x264视频编码器的profile(小实验)](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247485041&idx=1&sn=3dc4f5890bdfc438e249ced0b6142378&chksm=c06f17eef7189ef8fce49963950b5ec94f7a5885acd58f9c931c70bfae35a72648bd23e6ffae&token=842872866&lang=zh_CN#rd)
 
 [x264编码器的编译](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484906&idx=1&sn=2ec92b13e1dc8080183e153ed6978bf6&chksm=c06f1475f7189d63a2b36c15d49f3f2aef0d5089ea0e98b39d9f631fa53042f0cbafbf2e0433&token=842872866&lang=zh_CN#rd)
+
+## 码流分析软件
+[给码流分析软件支持H264解码显示](https://mp.weixin.qq.com/s?__biz=Mzg5NzY2NTI2NA==&mid=2247484680&idx=1&sn=4d70a1e6cb579c17df3a7f995950fd23&chksm=c06f1497f7189d815941cef333723531d020b743c22390ff4764397e5f0da65391fe90fca73e&token=842872866&lang=zh_CN#rd)
